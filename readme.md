@@ -1,1 +1,1 @@
-Imlemented necessary functionality
+Implemented necessary functionality
